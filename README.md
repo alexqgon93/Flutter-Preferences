@@ -1,16 +1,21 @@
-# preferences_app
+# 🤖 Preferences APP Flutter
 
-A new Flutter project.
+## What is this repository for?
 
-## Getting Started
+This simple project shows how to use shared preferences in flutter.
 
-This project is a starting point for a Flutter application.
+## Technology Stack
 
-A few resources to get you started if this is your first Flutter project:
+|              | **Name** | **Version**    |
+| ------------ | -------- | -------------- |
+| **Lenguage** | Dart     | >=3.3.2 <4.0.0 |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Setup & Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Just donwload the repository and run `flutter pub get`.
+¡Happy Coding!
+
+## Libraries used on this project
+
+- [Provider](https://pub.dev/packages/provider)
+- [Shared Preferences](https://pub.dev/packages/shared_preferences)
